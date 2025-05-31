@@ -1,8 +1,3 @@
-# AI-brain_wars
-
-A multiplayer, turn-based trivia game powered by AI. Two teams take turns answering and asking smart questions across categories, with real-time sync, results tracking, and a sleek Flutter UI.
-
-
 # BrainWars – AI-Powered Team Trivia Game 🧠🔥
 
 BrainWars is a real-time, turn-based quiz game where two teams (Red vs Blue) take turns asking and answering questions. Powered by AI, the game generates intelligent, category-based questions and handles the full game flow: team setup, gameplay, score tracking, and results.
